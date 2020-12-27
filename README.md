@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alt text](https://github.com/danleks/danleks/blob/main/mybio.svg)
+
+## About me
+Hi, my name is Alex. I am self-taught front-end developer. Among technologies I enjoy working with are ReactJS and its ecosystem. I am still learning and happy to discover new things in the frontend universe.
+
