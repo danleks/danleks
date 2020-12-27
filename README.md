@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ## About me
 Hi, my name is Aleks. I am self-taught front-end developer. Among technologies I enjoy working with are ReactJS and its ecosystem. I am still learning and happy to discover new things in the frontend universe.
 
+<!--
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">Monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+-->
