@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://github.com/danleks/danleks/blob/main/mybio.svg)
+<!-- ![alt text](https://github.com/danleks/danleks/blob/main/mybio.svg) -->
 
 ## About me
 Hi, my name is Aleks. I am a self-taught front-end developer. Among technologies I enjoy working with is ReactJS and its ecosystem.
