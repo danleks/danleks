@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- ![alt text](https://github.com/danleks/danleks/blob/main/mybio.svg) -->
 
 ## About me
-Hi, my name is Aleks. I am a self-taught front-end developer. Among technologies I enjoy working with is ReactJS and its ecosystem.
+Hi, my name is Aleks. I am a front-end developer. Among technologies I enjoy working with is ReactJS and its ecosystem.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danleks)](https://github.com/danleks/github-readme-stats)
 
